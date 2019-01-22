@@ -4,5 +4,5 @@ Biomedizinische Technik/Biomedical Engineering 57(Supp 1):542-545 · September 2
 DOI: 10.1515/bmt-2012-4233
 Conference: Biomedizinische Technik/Biomedical Engineering
 
-The Solidedge design files are included, so you can do all the modifications you want.
+The SolidEdge design files are included, so you can do all the modifications you want.
 
